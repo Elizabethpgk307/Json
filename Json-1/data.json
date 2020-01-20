@@ -1,0 +1,18 @@
+{
+    "events": [{
+            "location": "Titanic,TC",
+            "date": "May1",
+            "map": "ship1.jpg"
+        },
+        {
+            "location": "Titanic,TC",
+            "date": "May1",
+            "map": "ship2.jpg"
+        },
+        {
+            "location": "Titanic,TC",
+            "date": "May1",
+            "map": "ship3.jpg"
+        }
+    ]
+}

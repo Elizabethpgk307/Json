@@ -1,0 +1,25 @@
+{
+    "events": [{
+            "Id": "1",
+            "Name": "Annu Tom",
+            "Course": "MCA",
+            "Email": "annu@gmail.com",
+            "Regnum": "10000"
+
+        },
+        {
+            "Id": "2",
+            "Name": "Minnu Thomas",
+            "Course": "MBA",
+            "Email": "minnu@gmail.com",
+            "Regnum": "10001"
+        },
+        {
+            "Id": "3",
+            "Name": "Angel Joseph",
+            "Course": "B-Tech",
+            "Email": "angel@gmail.com",
+            "Regnum": "10002"
+        }
+    ]
+}
